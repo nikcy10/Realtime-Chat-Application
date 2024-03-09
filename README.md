@@ -1,5 +1,5 @@
 # DyLogue is a realtime chat application built with MERN Stack. 
-##(Demo Screenshots Below)
+## (Demo Screenshots Below)
 
 ## Installation Guide
 
@@ -48,7 +48,7 @@ npm start
 
 Done! Now open localhost:3000 in your browser.
 
-##Screenshots:
+## Screenshots:
 
 ![Login Page](./images/login.png)
 
