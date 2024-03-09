@@ -1,4 +1,4 @@
-# DyLogue is a realtime chat application built with MERN Stack. 
+# DyLogue - A Realtime Chat Application Built with MERN Stack. 
 ## (Demo Screenshots Below)
 
 ## Installation Guide
