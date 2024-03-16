@@ -40,7 +40,7 @@ npm start
 ```
 For Backend.
 
-Open another terminal in folder, Also make sure mongodb is running in background.
+Open another terminal in folder. Also make sure mongodb is running in background.
 ```shell
 cd server
 npm start
